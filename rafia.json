@@ -1,0 +1,28 @@
+{
+	"month": "August",
+	"title": "Schooling Special needs Children with Custom Education",
+	"subtitle": "Wise men say only fools rush in, but I can't help falling in love with you.",
+	"numberOfDonors": 1,
+	"numberOfSubProjects": 1,
+	"onGoing": false,
+	"cover": "https://images.unsplash.com/photo-1518949142393-f1d68174c92a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+	"raised": 12000,
+	"target": 20000,
+	"startDate": "9.16.2022",
+	"lastDate": "10.16.2022",
+	"donors": [{
+		"photo": "https://images.unsplash.com/photo-1607923287346-6fe63696797c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80,",
+		"name": "Daniel Grey",
+		"amountDonated": 2000
+	}],
+	"subProjects": [{
+		"subProjectTitle": "",
+		"subProjectSubTitle": "",
+		"parentProjectTitle": "",
+		"subStartDate": "",
+		"subLastDate": "",
+		"subTarget": 0.0,
+		"subRaised": 0.0,
+		"subLocation": ""
+	}]
+}
