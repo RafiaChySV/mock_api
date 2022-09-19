@@ -10,6 +10,7 @@
 	"target": 20000,
 	"startDate": "9.16.2022",
 	"lastDate": "10.16.2022",
+	"percentageOfGoalReached": 0.6
 	"donors": [{
 		"photo": "https://images.unsplash.com/photo-1607923287346-6fe63696797c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80,",
 		"name": "Daniel Grey",
