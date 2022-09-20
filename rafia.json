@@ -1,4 +1,5 @@
-[{      "mainProjectLocation": "",
+[{
+	"mainProjectLocation": "",
 	"month": "August",
 	"title": "Schooling Special needs Children with Custom Education",
 	"subtitle": "Wise men say only fools rush in, but I can't help falling in love with you.",
@@ -26,7 +27,7 @@
 		"subTarget": 0.0,
 		"subRaised": 0.0,
 		"subLocation": "",
-		"percent": 0.6,
-		
+		"percent": 0.6
+
 	}]
 }]
