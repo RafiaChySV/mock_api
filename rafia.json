@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"message": "success",
-	"data": {
+	"exploreData": {
 		"project": [{
 			"mainProjectLocation": "",
 			"month": "August",
