@@ -1,44 +1,44 @@
 {
 	"success": true,
 	"message": "success",
-	"data": {
-		"exploreData": {
-			"project": [{
-				"mainProjectLocation": "",
-				"month": "August",
-				"title": "Schooling Special needs Children with Custom Education",
-				"subtitle": "lorem ipsum ra hdj tejko nehfo gareer to the fmountioan",
-				"number_of_donors": 1,
-				"number_of_subProjects": 1,
-				"on_going": false,
-				"cover": "https://images.unsplash.com/photo-1576381394626-53b3d2d48145?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-				"raised": 12000,
-				"target": 20000,
-				"start_date": 6,
-				"last_date": 10,
-				"percent": 0.6,
-				"no_days_remaining": 4,
-				"donors": [{
-					"photo": "https://images.unsplash.com/photo-1607923287346-6fe63696797c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80,",
-					"name": "Daniel Grey",
-					"amount_donated": 2000
-				}],
-				"subProjects": [{
-					"coverPhotoLink": "",
-					"subProjectTitle": "",
-					"subProjectSubTitle": "",
-					"parentProjectTitle": "",
-					"subStartDate": "",
-					"subLastDate": "",
-					"subTarget": 0.0,
-					"subRaised": 0.0,
-					"subLocation": "",
-					"percent": 0.6
-
-				}]
-
+	"data": "",
+	"exploreData": {
+		"project": [{
+			"mainProjectLocation": "",
+			"month": "August",
+			"title": "Schooling Special needs Children with Custom Education",
+			"subtitle": "lorem ipsum ra hdj tejko nehfo gareer to the fmountioan",
+			"number_of_donors": 1,
+			"number_of_subProjects": 1,
+			"on_going": false,
+			"cover": "https://images.unsplash.com/photo-1576381394626-53b3d2d48145?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+			"raised": 12000,
+			"target": 20000,
+			"start_date": 6,
+			"last_date": 10,
+			"percent": 0.6,
+			"no_days_remaining": 4,
+			"donors": [{
+				"photo": "https://images.unsplash.com/photo-1607923287346-6fe63696797c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80,",
+				"name": "Daniel Grey",
+				"amount_donated": 2000
+			}],
+			"subProjects": [{
+				"coverPhotoLink": "",
+				"subProjectTitle": "",
+				"subProjectSubTitle": "",
+				"parentProjectTitle": "",
+				"subStartDate": "",
+				"subLastDate": "",
+				"subTarget": 0.0,
+				"subRaised": 0.0,
+				"subLocation": "",
+				"percent": 0.6
 
 			}]
-		}
+
+
+		}]
 	}
+
 }
