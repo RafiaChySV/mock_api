@@ -14,8 +14,8 @@
 			"cover": "https://images.unsplash.com/photo-1576381394626-53b3d2d48145?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
 			"raised": 12000,
 			"target": 20000,
-			"start_date": 6,
-			"last_date": 10,
+			"start_date": '2',
+			"last_date": '3',
 			"percent": 0.6,
 			"no_days_remaining": 4,
 			"donors": [{
@@ -30,8 +30,8 @@
 				"parentProjectTitle": "",
 				"subStartDate": "",
 				"subLastDate": "",
-				"subTarget": 0.0,
-				"subRaised": 0.0,
+				"subTarget": '2',
+				"subRaised": '6',
 				"subLocation": "",
 				"percent": 0.6
 
