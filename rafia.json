@@ -19,6 +19,32 @@
 				"percent": 0.6,
 				"no_days_remaining": 4,
 				"donors": [{
+					"photo": "https://images.unsplash.com/photo-1562917127-52bfc7d186ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9vcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+					"name": "Daniel Grey",
+					"amount_donated": 2000
+				}],
+				"subProjects": [
+
+				]
+
+
+			},
+			{
+				"mainProjectLocation": "",
+				"month": "August",
+				"title": "Schooling Special needs Children with Custom Education",
+				"subtitle": "lorem ipsum ra hdj tejko nehfo gareer to the fmountioan",
+				"number_of_donors": 1,
+				"number_of_subProjects": 1,
+				"on_going": true,
+				"cover": "https://images.unsplash.com/photo-1632923057155-dd35366509ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cG9vcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+				"raised": 12000,
+				"target": 20000,
+				"start_date": "2nd",
+				"last_date": "30th",
+				"percent": 0.6,
+				"no_days_remaining": 4,
+				"donors": [{
 					"photo": "https://images.unsplash.com/photo-1607923287346-6fe63696797c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80,",
 					"name": "Daniel Grey",
 					"amount_donated": 2000
@@ -29,6 +55,7 @@
 
 
 			},
+
 			{
 				"mainProjectLocation": "",
 				"month": "August",
@@ -49,13 +76,22 @@
 					"name": "Daniel Grey",
 					"amount_donated": 2000
 				}],
-				"subProjects": [
+				"subProjects": [{
+					"coverPhotoLink": "",
+					"subProjectTitle": "",
+					"subProjectSubTitle": "",
+					"parentProjectTitle": "",
+					"subStartDate": "",
+					"subLastDate": "",
+					"subTarget": 2000,
+					"subRaised": 1000,
+					"subLocation": "",
+					"percent": 0.6
 
-				]
+				}]
 
 
 			},
-
 			{
 				"mainProjectLocation": "",
 				"month": "August",
@@ -63,8 +99,8 @@
 				"subtitle": "lorem ipsum ra hdj tejko nehfo gareer to the fmountioan",
 				"number_of_donors": 1,
 				"number_of_subProjects": 1,
-				"on_going": true,
-				"cover": "https://images.unsplash.com/photo-1507427100689-2bf8574e32d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+				"on_going": false,
+				"cover": "https://images.unsplash.com/photo-1597437180687-ea223aa3b03a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cG9vcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
 				"raised": 12000,
 				"target": 20000,
 				"start_date": "2nd",
@@ -100,43 +136,7 @@
 				"number_of_donors": 1,
 				"number_of_subProjects": 1,
 				"on_going": false,
-				"cover": "https://images.unsplash.com/photo-1507427100689-2bf8574e32d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-				"raised": 12000,
-				"target": 20000,
-				"start_date": "2nd",
-				"last_date": "30th",
-				"percent": 0.6,
-				"no_days_remaining": 4,
-				"donors": [{
-					"photo": "https://images.unsplash.com/photo-1607923287346-6fe63696797c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80,",
-					"name": "Daniel Grey",
-					"amount_donated": 2000
-				}],
-				"subProjects": [{
-					"coverPhotoLink": "",
-					"subProjectTitle": "",
-					"subProjectSubTitle": "",
-					"parentProjectTitle": "",
-					"subStartDate": "",
-					"subLastDate": "",
-					"subTarget": 2000,
-					"subRaised": 1000,
-					"subLocation": "",
-					"percent": 0.6
-
-				}]
-
-
-			},
-			{
-				"mainProjectLocation": "",
-				"month": "August",
-				"title": "Schooling Special needs Children with Custom Education",
-				"subtitle": "lorem ipsum ra hdj tejko nehfo gareer to the fmountioan",
-				"number_of_donors": 1,
-				"number_of_subProjects": 1,
-				"on_going": false,
-				"cover": "https://images.unsplash.com/photo-1507427100689-2bf8574e32d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+				"cover": "https://images.unsplash.com/photo-1520543651027-3168c018924f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvb3J8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"raised": 12000,
 				"target": 20000,
 				"start_date": "2nd",
@@ -173,7 +173,7 @@
 				"number_of_donors": 1,
 				"number_of_subProjects": 1,
 				"on_going": false,
-				"cover": "https://images.unsplash.com/photo-1507427100689-2bf8574e32d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+				"cover": "https://images.unsplash.com/photo-1615396415688-47c0ae4ab453?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBvb3J8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"raised": 12000,
 				"target": 20000,
 				"start_date": "2nd",
